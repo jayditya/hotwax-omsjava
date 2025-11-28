@@ -1,0 +1,7 @@
+com\hotwax\oms\entity\Product.class
+com\hotwax\oms\entity\Customer.class
+com\hotwax\oms\entity\ContactMech.class
+com\hotwax\oms\entity\OrderItem.class
+com\hotwax\oms\servlet\OrderServlet.class
+com\hotwax\oms\entity\OrderHeader.class
+com\hotwax\oms\util\DBConnection.class
